@@ -1,5 +1,5 @@
-import './App.css'
+import { Terminal } from './components/Terminal'
 
 export default function App() {
-  return <div>Pinkshell</div>
+  return <Terminal/>
 }
